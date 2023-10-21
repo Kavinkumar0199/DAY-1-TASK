@@ -1,0 +1,18 @@
+Write a blog about objects and its internal representation in Javascript .
+
+Objects :-
+
+ In javascript objects are more important datatype.
+ Objects are only holding a many values in the form of key.
+ These keys are representated by proprties and methods.
+ Objects only define the character of javascript by using their properties.
+ Javascript is an object based web language.
+ It is a type of collection of properties in for of name & vale pair.
+ It ca points a memory of location that can stored in a store.
+
+ Interal representation :-
+
+ using Brackets [ ]
+using Syntax () . ()
+using this syntax for adding and access thye property
+

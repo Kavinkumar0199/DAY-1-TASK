@@ -1,0 +1,21 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2 .
+
+HTTP1.1 :
+
+It is the first version of HTTP in 1997.
+It is less efficient and slower than HTTP 2 a more webpages at a single time.
+Resources of loads can send one by one only.
+Blocks the behind loaded resources on a single responses.
+It cannot able to split the codes at a sinlge load.
+In this server only serves a content to client device , when the client required / needed.
+It involves in loading a sinle webpage in quick and faster loading
+
+HTTP2 :
+
+ It was created after the version HTTP1.1 on 2015 .
+ It is faster and more effficient than HTTP1.1 .
+ Many resources can load at5 a single/ multiple times in a same period / pages.
+ It cannot block any other resources.It will permit all resources loads at a same time.
+ It has able to splitting datas into binary code and numbering the messages.
+ In this , a sever can send a PUSH content to client before they ask .
+ It involves moer than one webpage in quick and faster loading.
